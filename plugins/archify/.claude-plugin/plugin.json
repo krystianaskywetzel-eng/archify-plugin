@@ -1,0 +1,12 @@
+{
+  "name": "archify",
+  "description": "Create validated architecture, workflow, sequence, data-flow, lifecycle/state, ERD, class, tree, timeline and waterfall diagrams as explorable standalone HTML, plus conclusion-first explainer pages. Accepts requirements or Mermaid and can inspect a repository for code-backed diagrams.",
+  "version": "3.2.0",
+  "author": {
+    "name": "tt-a1i",
+    "url": "https://github.com/tt-a1i"
+  },
+  "homepage": "https://github.com/krystianaskywetzel-eng/archify-plugin",
+  "license": "MIT",
+  "keywords": ["diagrams", "architecture", "sequence", "erd", "explainer", "visualization", "html"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "archify",
+  "description": "archify (tt-a1i/archify) repackaged for install-by-URL in Cowork and Claude Code — validated diagrams and explainer pages as standalone HTML.",
+  "owner": {
+    "name": "krystianaskywetzel-eng"
+  },
+  "plugins": [
+    {
+      "name": "archify",
+      "source": "./plugins/archify",
+      "description": "Validated architecture, sequence, data-flow, ERD, class, tree, timeline and waterfall diagrams + explainer pages as explorable standalone HTML. Can read a repo for code-backed diagrams."
+    }
+  ]
+}
